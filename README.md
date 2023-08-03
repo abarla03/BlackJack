@@ -1,4 +1,4 @@
-                                             **BlackJack Application**
+                                                 BlackJack Application 
 
 This program is a terminal-based BlackJack game which was written in Python. The main objective of the game is to beat the dealer or the hands given by the card. This can be done in the following ways: 
 Get 21 points on the players first two cards without the dealer having a blackjack
