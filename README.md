@@ -7,8 +7,8 @@ Letting the dealer draw additional cards until their hand can exceed 21
 
 The program is implemented with a deck of cards with two actions: Hit or Stand. The Hit (H) would allow the player to take another card from the dealer and the Stand (S) implies that the player takes no more cards and the dealer draws the card. 
 
-**Instructions**
-\n The code is stored in the file BJ.py. It can be run on Visual Studio Code, or any IDE/application that can run a python program. As usual, you can then save the file, compile, and run the code. For instance, if you are using Visual Studio Code, you can compile and run by stating: python3 BJ.py. With that, you can start playing BlackJack. Thank you for taking the time to review my program and my application. Hope you have fun! 
+**Instructions**\
+The code is stored in the file BJ.py. It can be run on Visual Studio Code, or any IDE/application that can run a python program. As usual, you can then save the file, compile, and run the code. For instance, if you are using Visual Studio Code, you can compile and run by stating: python3 BJ.py. With that, you can start playing BlackJack. Thank you for taking the time to review my program and my application. Hope you have fun! 
 
 What Went Well
 	In the allocated time, I managed to code most of the edge cases that would be involved in this program. This includes some sanity checks and not taking into account alternate user inputs at unnecessary points during the program. 
