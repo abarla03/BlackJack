@@ -24,8 +24,7 @@ A class card where I define the components I use for each card method
 **Algorithm Choices**\
 	I used a lot of if statements in the program because it was generally a pretty straightforward program. I did use for-loops for designing the card layout through the terminal. Additionally, I used another for-loop to append all the suits, card values onto the cards by using the append() method. I also used a while-loop to help keep track of the player and dealer's scores, specifically in the case when the player's card has an ace in them. Depending on the scenario, I increment the values by 1 or 11. 
 
-**Ace Card Scenario:** \
-
+**Ace Card Scenario:**\
 Besides these three forms to help with my project flow, I placed the input() method in my program just to prevent my program from crashing. When it comes to data structures, I chose to use arrays to store the different values because of time purposes and simplicity. In the case when I had more time, I would have used a hash table for a better runtime for my algorithm. This was the case for storing the deck of cards, the players and dealers cards, and the point values for the cards. 
 
 
